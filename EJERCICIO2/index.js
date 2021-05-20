@@ -1,0 +1,1 @@
+let uno = document.getElementsByTagName('button')[0];
